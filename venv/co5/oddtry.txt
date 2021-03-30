@@ -1,0 +1,4 @@
+sunday
+ tuesday 
+ thursday
+ saturday
